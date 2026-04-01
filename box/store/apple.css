@@ -1,0 +1,867 @@
+* {
+  margin: 0;
+}
+.container {
+  width: 1920px;
+  display: flex;
+  flex-direction: column;
+  background-color: whitesmoke;
+  margin: 0 auto;
+}
+
+.container22 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.box1 {
+  width: 1920px;
+  height: 44px;
+  gap: 24px;
+  display: flex;
+  background-color: #f5f5f7cc 80%;
+  display: flex;
+  justify-content: center;
+  font-size: 12px;
+  align-items: center;
+  font-family: "Inter", sans-serif;
+}
+.box2 {
+  width: 1920px;
+  height: 60px;
+  gap: 4px;
+  background-color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+}
+.hooson {
+  width: 1920px;
+  height: 89px;
+}
+.box3 {
+  height: 75px;
+  background-color: #f5f5f7;
+}
+.box4 {
+  width: 1920px;
+
+  justify-content: space-between;
+
+  gap: 32px;
+  display: flex;
+}
+.duunar {
+  display: flex;
+  width: 260px;
+  gap: 16px;
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+}
+.pin {
+  width: 35px;
+  height: 35px;
+}
+.parent2 {
+  gap: 16px;
+  display: flex;
+  flex-direction: column;
+}
+.tomah1 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.tomah2 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.tomah {
+  font-size: 44px;
+  color: #6e6e73;
+  font-family: "Inter", sans-serif;
+}
+span {
+  background: linear-gradient(90deg, #0090f7, #ba62fc, #f2416b);
+  -webkit-background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+}
+.ongo {
+  color: #0090f7;
+}
+.box5 {
+  width: 1920px;
+  gap: 40px;
+  display: flex;
+  justify-content: center;
+}
+.pan {
+  width: 120px;
+  height: 78px;
+}
+.box6 {
+  width: 1920px;
+  height: 558px;
+  gap: 24px;
+  display: flex;
+}
+.hairtsag1 {
+  width: 480px;
+  height: 500px;
+  display: flex;
+  gap: 20px;
+  border-radius: 18px;
+  background-image: url(./8cee8a34ee4ba9b658ae0be05611d11ea5d55e1b.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+}
+.hairtsag2 {
+  width: 480px;
+  height: 500px;
+  border-radius: 18px;
+  background-image: url(./c919767811d17384ffff099320c9c7133d51ca53.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+}
+
+.hairtsag3 {
+  width: 480px;
+  height: 500px;
+  border-radius: 18px;
+  background-image: url(./0cfc0dd0d01205674f4c489ef17a681ba94e875c.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+}
+
+.hairtsag4 {
+  width: 480px;
+  height: 500px;
+  border-radius: 18px;
+  background-image: url(./8943d8c585c4f4bb4720641745b1cce65bdd8f0e.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+}
+.latest {
+  width: 467px;
+  height: 34px;
+  display: flex;
+  gap: 5px;
+
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+.apple2 {
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
+  color: #b64400;
+}
+.iphone2 {
+  font-family: "Inter", sans-serif;
+  font-size: 26px;
+  color: #1d1d1f;
+}
+.from2 {
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  color: #1d1d1f;
+}
+.haannen {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.haannen2 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-left: 30px;
+  margin-top: 55px;
+}
+.container2 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+.container3 {
+  display: flex;
+
+  gap: 300px;
+}
+
+.carduudiinaav {
+  height: 558px;
+  display: flex;
+  gap: 20px;
+  position: relative;
+}
+.aav {
+  width: 310px;
+  height: 500px;
+  border-radius: 18px;
+  background-color: #ffffff;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+
+  position: relative;
+  justify-content: end;
+  align-items: center;
+}
+
+.card1 {
+  background-image: url("./0a525b0da81b93735e1f513f958e111d7e3079a1.jpg");
+  width: 400px;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+  color: #1d1d1f;
+  font-size: 26px;
+  font-family: "Inter", sans-serif;
+  position: relative;
+}
+.marker {
+  width: 197px;
+  height: 66px;
+  position: absolute;
+  top: 53px;
+  left: 30px;
+}
+.card2 {
+  background-image: url(./2609ceeb74c88a8937d995e24c37c91f4084949c.jpg);
+  width: 230px;
+  height: 230px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+}
+.card3 {
+  background-image: url(./863332f402f27d03cdecf714f73f92304e551a68.jpg);
+  width: 230px;
+  height: 230px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+}
+.card4 {
+  background-image: url("./36d7e67985c8efaa8d3eb3e76015e0998ef9509b.jpg");
+  width: 230px;
+  height: 230px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+}
+.card5 {
+  background-image: url(./9c27be91006917b2bc4752dedf37023b08a9cafa.jpg);
+  width: 230px;
+  height: 230px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+}
+
+.dad {
+  width: 1920px;
+  height: 558px;
+  display: flex;
+  gap: 204px;
+}
+
+.card11 {
+  background-image: url(./6da69c7f2d4d299063c16c1d325db130f08ef7ba.jpg);
+  width: 400px;
+  height: 500px;
+  border-radius: 18px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+
+  font-size: 26px;
+  font-family: "Inter", sans-serif;
+  position: relative;
+}
+.marker1 {
+  width: 360px;
+  height: 66px;
+  position: absolute;
+  left: 30px;
+  top: 54px;
+}
+.free {
+  color: #b64400;
+  font-size: 12px;
+  font-family: "Inter", sans-serif;
+}
+.max {
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+}
+.dollar {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+}
+.pin {
+  width: 12px;
+  height: 12px;
+}
+.pinguudiinaav {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  width: 313px;
+}
+.aav1 {
+  width: 257px;
+  height: 109px;
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.aav2 {
+  width: 257px;
+  height: 109px;
+  gap: 35px;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 396px;
+}
+.aav33 {
+  height: 109px;
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 396px;
+}
+.aav44 {
+  width: 257px;
+  height: 109px;
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card111 {
+  width: 480px;
+  height: 500px;
+  background-image: url(./93f151ac653907f22599b9fbc9ab8bcfb347d691.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+  font-size: 26px;
+  font-family: "Inter", sans-serif;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+.get {
+  width: 280px;
+  height: 130px;
+  position: absolute;
+  left: 30px;
+  top: 50px;
+}
+.hotboy1 {
+  width: 230px;
+  height: 140px;
+}
+
+.hotboy2 {
+  width: 230px;
+  height: 140px;
+}
+.hotboy3 {
+  width: 230px;
+  height: 140px;
+}
+.hotboy4 {
+  width: 230px;
+  height: 140px;
+}
+
+.card222 {
+  width: 238px;
+  height: 84px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card333 {
+  width: 480px;
+  height: 500px;
+  background-image: url(./54711505d840cac99050329da0237a9a79b9d07d.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+}
+.apple11 {
+  font-size: 12px;
+  font-family: "Inter", sans-serif;
+  /* width: 131px;
+  height: 14px; */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.trade11 {
+  width: 330.59px;
+
+  height: 96px;
+  font-size: 25px;
+  font-family: "Inter", sans-serif;
+}
+.aav3 {
+  width: 1920px;
+  height: 558px;
+  display: flex;
+  gap: 24px;
+}
+
+.aav4 {
+  width: 1920px;
+  height: 558px;
+  gap: 24px;
+  display: flex;
+}
+.card1111 {
+  width: 480px;
+  height: 480px;
+  background-image: url(./fe1e7ece87047c95faa8a68f17e8867914317976.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+  position: relative;
+}
+.card2222 {
+  width: 480px;
+  height: 480px;
+  background-image: url(./2171b58f3ab6a95e407be2639740dad7138786d3.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+  position: relative;
+  color: #f5f5f7;
+}
+
+.card3333 {
+  width: 480px;
+  height: 480px;
+  background-image: url(./7e38eec3034a854374ceb67eb6c71f4e173cee8e.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+  position: relative;
+}
+.card4444 {
+  width: 480px;
+  height: 480px;
+  background-image: url(./4c93c049459dcec6247af385b50ac485e92e5a45.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+  position: relative;
+}
+
+.aav5 {
+  width: 1920px;
+  height: 558px;
+  gap: 24px;
+  display: flex;
+}
+.card11111 {
+  width: 480px;
+  height: 500px;
+  background-image: url(./57e6bdca2b0f233f809fe57ada1ba8354e54e4b4.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+  position: relative;
+  background-color: #ffffff;
+}
+.card22222 {
+  width: 480px;
+  height: 500px;
+  background-image: url(./c29a91c005069048c5e1b877cf3142fa2fab6067.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+  position: relative;
+  background-color: #ffffff;
+}
+
+.card33333 {
+  width: 480px;
+  height: 500px;
+  background-image: url(./60a49ef1a49579aa398f78daa8ab814a87b543dc.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+  position: relative;
+  background-color: #ffffff;
+}
+.card44444 {
+  width: 480px;
+  height: 500px;
+  background-image: url(./a960f7eefe8796ce51144b229909100094a59989.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+  position: relative;
+  background-color: #ffffff;
+}
+/* .card55555 {
+  width: 480px;
+  height: 500px;
+  background-image: url(./9511d82e0fa4f14f3d23b485ab3928f9d27a5012.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+} */
+.button1 {
+  width: 125px;
+  height: 40px;
+  border-radius: 999px;
+}
+.button2 {
+  width: 137px;
+  height: 40px;
+  border-radius: 999px;
+}
+.button3 {
+  width: 91px;
+  height: 40px;
+  border-radius: 999px;
+}
+.button4 {
+  width: 114px;
+  height: 40px;
+  border-radius: 999px;
+}
+.personalization {
+  width: 547px;
+  height: 34px;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+.dad2 {
+  display: flex;
+}
+.target {
+  width: 547px;
+  height: 34px;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+  display: flex;
+  gap: 10px;
+}
+.only {
+  gap: 4px;
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+.span2 {
+  width: 500px;
+}
+
+.etseg1 {
+  width: 313px;
+  height: 240px;
+  border-radius: 18px;
+  background-color: white;
+  font-family: "Inter", sans-serif;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.etseg2 {
+  width: 313px;
+  height: 240px;
+  border-radius: 18px;
+  background-color: white;
+  font-family: "Inter", sans-serif;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.etseg3 {
+  width: 313px;
+  height: 240px;
+  border-radius: 18px;
+  background-color: white;
+  font-family: "Inter", sans-serif;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.etseg4 {
+  width: 313px;
+  height: 240px;
+  border-radius: 18px;
+  background-color: white;
+  font-family: "Inter", sans-serif;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.boxx {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.boxx1 {
+  display: flex;
+  gap: 20px;
+}
+.boxx2 {
+  display: flex;
+  gap: 20px;
+}
+.applem1 {
+  font-size: 12px;
+  font-family: "Inter", sans-serif;
+}
+.applem2 {
+  font-size: 12px;
+  font-family: "Inter", sans-serif;
+}
+.applem3 {
+  font-size: 12px;
+  font-family: "Inter", sans-serif;
+}
+.applem4 {
+  font-size: 12px;
+  font-family: "Inter", sans-serif;
+}
+.text1 {
+  font-size: 26px;
+  font-family: "Inter", sans-serif;
+}
+.text2 {
+  font-size: 26px;
+  font-family: "Inter", sans-serif;
+}
+.text3 {
+  font-size: 26px;
+  font-family: "Inter", sans-serif;
+}
+.text4 {
+  font-size: 26px;
+  font-family: "Inter", sans-serif;
+}
+.jijigtext1 {
+  font-size: 17px;
+  font-family: "Inter", sans-serif;
+}
+
+.rutuu {
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+  width: 890px;
+  height: 60px;
+  display: flex;
+
+  gap: 10px;
+}
+.garchig {
+  font-size: 12px;
+  font-family: "Inter", sans-serif;
+}
+.tomtext {
+  font-size: 26px;
+  font-family: "Inter", sans-serif;
+}
+.jijig {
+  font-size: 17px;
+  font-family: "Inter", sans-serif;
+}
+.quick {
+  font-size: 26px;
+  font-family: "Inter", sans-serif;
+  position: absolute;
+  bottom: 90px;
+}
+.haniad {
+  font-size: 24px;
+  font-family: "Inter", sans-serif;
+}
+
+.card22 {
+  width: 230px;
+  height: 230px;
+  background-image: url("./c016407b1d2afca1eb640b5c24fa60b9d88f09e8.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+  position: absolute;
+  top: 70px;
+}
+.card33 {
+  width: 230px;
+  height: 230px;
+  background-image: url(./55524950c6b2950e36e95b097ede33316f9d3373.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+  position: absolute;
+  top: 70px;
+}
+.card44 {
+  width: 230px;
+  height: 230px;
+  background-image: url(./72d5185ead4c03bca33e9d4984ab45cf6c148938.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+  position: absolute;
+  top: 70px;
+}
+.card55 {
+  width: 230px;
+  height: 230px;
+  background-image: url("./0c6d273e8e0627f20f389a36726a299eb458c853.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  object-position: center;
+  background-position: center;
+  position: absolute;
+  top: 70px;
+}
+.ochir {
+  width: 275px;
+  height: 66px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.ochir1 {
+  width: 420px;
+  height: 64px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.ochir2 {
+  width: 420px;
+  height: 64px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.ochir3 {
+  width: 384px;
+  height: 96px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.ochir4 {
+  width: 360px;
+  height: 96px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.ochir5 {
+  width: 384px;
+  height: 96px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.ochir6 {
+  width: 384px;
+  height: 96px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.ochir7 {
+  width: 384px;
+  height: 96px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  color: #ffffff;
+}
+.card55555 {
+  position: relative;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+.aav6 {
+  position: absolute;
+  bottom: 40px;
+  display: flex;
+  gap: 10px;
+}
